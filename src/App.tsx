@@ -32,6 +32,8 @@ function App() {
             }
           }
           `}</pre>
+        <div className="App__text">Component repository <a href={"https://github.com/AleksSido/components-kit"} target={"_blank"}>https://github.com/AleksSido/components-kit</a></div>
+        <div className="App__text">App demo repository <a href={"https://github.com/AleksSido/stencil-input-app-demo"} target={"_blank"}>https://github.com/AleksSido/stencil-input-app-demo</a></div>
       </div>
 
       <div className="App__text App__text_u">Notes on implementation:</div>
