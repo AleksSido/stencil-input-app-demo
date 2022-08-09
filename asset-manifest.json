@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stencil-input-app-demo/static/css/main.61b52116.css",
-    "main.js": "/stencil-input-app-demo/static/js/main.04bacb7e.js",
+    "main.js": "/stencil-input-app-demo/static/js/main.8471003b.js",
     "static/js/702.0ba98d4a.chunk.js": "/stencil-input-app-demo/static/js/702.0ba98d4a.chunk.js",
     "static/js/787.7e87ad2f.chunk.js": "/stencil-input-app-demo/static/js/787.7e87ad2f.chunk.js",
     "static/media/3.jpg": "/stencil-input-app-demo/static/media/3.510b5b8a3fe87e12fad0.jpg",
@@ -10,12 +10,12 @@
     "static/media/4.jpg": "/stencil-input-app-demo/static/media/4.67b9e792ab90e44c0775.jpg",
     "index.html": "/stencil-input-app-demo/index.html",
     "main.61b52116.css.map": "/stencil-input-app-demo/static/css/main.61b52116.css.map",
-    "main.04bacb7e.js.map": "/stencil-input-app-demo/static/js/main.04bacb7e.js.map",
+    "main.8471003b.js.map": "/stencil-input-app-demo/static/js/main.8471003b.js.map",
     "702.0ba98d4a.chunk.js.map": "/stencil-input-app-demo/static/js/702.0ba98d4a.chunk.js.map",
     "787.7e87ad2f.chunk.js.map": "/stencil-input-app-demo/static/js/787.7e87ad2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61b52116.css",
-    "static/js/main.04bacb7e.js"
+    "static/js/main.8471003b.js"
   ]
 }
